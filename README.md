@@ -7,6 +7,11 @@ and separating colors (RGB) from images.
 1. Python 3.x
 2. PIL (Python Imaging Library)
 
+# Installations
+1.To install PIL, you can use pip:
+            
+    pip install PIL
+
 # Features
 1. Image Blurring:Apply simple, box, or Gaussian blur to images.
 
@@ -33,5 +38,6 @@ and separating colors (RGB) from images.
 10. Color Separation: 
   Separate colors (red, green, blue, or grayscale) from images.
 
-
-
+# Contributions
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
+Feel free to customize it further according to your preferences and project requirements!
