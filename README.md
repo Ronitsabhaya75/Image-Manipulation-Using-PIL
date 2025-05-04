@@ -40,4 +40,3 @@ and separating colors (RGB) from images.
 
 # Contributions
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
-Feel free to customize it further according to your preferences and project requirements!
